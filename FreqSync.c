@@ -15,6 +15,13 @@
 // what number of "notes" to split an octave into to find the offset of the traditional 12-note equal temperament
 #define ALIGN_BUCKETS_TO 1000
 
+
+
+// I got lazy and didn't add parameter parsing - you'll have to change the output file type near the bottom and tweak the params at the top before compiling
+// note_deviation and sometimes history_seconds are the main things to tweak to get a given song to work
+
+
+
 int pass = 1;
 int sample_rate;
 int window_size;
@@ -30,7 +37,7 @@ int octave_steps = 12;
 // max amount of movement in notes to allow
 double note_deviation = 0.5;
 // how long ago to consider when weighing note interval importance
-int history_seconds = 1;
+int history_seconds = 2;
 // doubled, half searching half narrowing
 int sync_rounds = 100000;
 double* note_adjustments;

@@ -1,0 +1,35 @@
+https://en.wikipedia.org/wiki/List_of_pitch_intervals
+https://www.desmos.com/calculator/sqd9d3u4dl
+	Note how:
+		Alpha matches harmonics in the center of the scale, with error on outer notes
+			Middle notes are most likely to be paired with the key base, makes sense
+		Beta slightly prioritizes higher notes?
+			May just work out like that because there are more higher harmonics
+		Gamma is just overall great
+			I am surprised at Wendy saying it has less beats than 53 though. . . 53 looks better
+"Not used" refers to what ratios Wendy Carlos used to find her scales https://www.wendycarlos.com/resources/pitch.html
+0.263 6/5 (minor 3rd) isn't harmonic
+	Close to 0.248 19/16
+
+First split (2^1 to 2^2th harmonics):
+0.585 3/2
+
+Second split (2^2 to 2^3th harmonics):
+0.322 5/4
+0.807 7/4
+
+Third split (2^3 to 2^4th harmonics):
+0.170  9/8 not used
+0.459 11/8
+0.700 13/8 not used
+0.907 15/8 not used
+
+Fourth split (2^4 to 2^5th harmonics):
+0.088 17/16 not used
+0.248 19/16 not used
+0.392 21/16 not used
+0.524 23/16 not used
+0.644 25/16 not used
+0.755 27/16 not used
+0.858 29/16 not used
+0.954 31/16 not used
